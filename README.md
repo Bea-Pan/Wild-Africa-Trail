@@ -23,8 +23,8 @@ To achieve goals & objectives I used the follwing:
 ## Technologies used
 * HTML
 * CSS
-* Git and GitHub
-* Command terminal
+* Git, GitHub and Git bash
+
 
 ## Live Website :giraffe:
 
